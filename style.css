@@ -1,0 +1,22 @@
+
+html, body {
+  background-image: url('images/droneBg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0;
+}
+div{
+  display: flex;
+  justify-content: center;
+}
+button{
+  height: 50px;
+  width: 300px;
+  margin-top: 300px;
+  margin-left: 600px;
+  color:red;
+}
+
+
